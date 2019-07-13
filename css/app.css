@@ -16,8 +16,7 @@
 }
 .bgFFF,
 .navbar-light .navbar-toggler {
-    /* background-color: #fff */
-    background-color: red
+    background-color: #fff 
 }
 .bgGrad{
     background: #007bff;
