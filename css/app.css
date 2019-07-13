@@ -4,7 +4,8 @@
     margin-top: -80px;
 }
 .bg-transparent { background: transparent; }
-.bgBlue { background: #2D98F7; }
+/* .bgBlue { background: #2D98F7; } */
+.bgBlue { background: #22447a; }
 .bgGray { background: #f1f1f1; }
 .bgBlack { background: #000; }
 .bgGradient{
@@ -15,7 +16,7 @@
 .bgFFF,
 .navbar-light .navbar-toggler {
     /* background-color: #fff */
-    background-color: green
+    background-color: red
 }
 .bgGrad{
     background: #007bff;
