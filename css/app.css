@@ -87,9 +87,11 @@ footer.bgDark li:before{ font-size: 12px; }
 
 .newsletter { background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.75)), url('/images/newsletter.jpg') no-repeat; }
 
-.pageBanner{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/hero.jpg') no-repeat; }
+/* .pageBanner{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/hero.jpg') no-repeat; } */
+.pageBanner{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/healthcare_ai.jpg') no-repeat; }
 
-.pageBanner.contact{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/CTA-explore.jpg') no-repeat; }
+/* .pageBanner.contact{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/CTA-explore.jpg') no-repeat; } */
+.pageBanner.contact{ background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('/images/healthcare_ai2.jpg') no-repeat; }
 
 .learnWithUs .step {
     height: 230px;
