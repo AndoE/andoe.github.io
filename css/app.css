@@ -199,7 +199,8 @@ footer.bgDark li:before {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
     border-color: #ffffff #fff #03a16e;
-    color: #03a16e;
+    /* color: #03a16e; */
+	color: green;
 }
 /*.breadcrumb {
     background: rgba(0,0,0, .6);
