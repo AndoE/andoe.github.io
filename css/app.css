@@ -5,8 +5,8 @@
 }
 .bg-transparent { background: transparent; }
 /* .bgBlue { background: #2D98F7; } */
-.bgBlue { background: #22447a; }
-/* .bgGray { background: #f1f1f1; } */
+/*.bgBlue { background: #22447a; }*/
+ .bgGray { background: #f1f1f1; } 
 .bgGray { background: rgba(0, 0, 0, 0.74); }
 .bgBlack { background: #000; }
 .bgGradient{
